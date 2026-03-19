@@ -103,3 +103,8 @@ p {
   color: inherit;
   display: block;
 }
+
+a, a:visited {
+  color: blue;
+  text-decoration: none;
+}
